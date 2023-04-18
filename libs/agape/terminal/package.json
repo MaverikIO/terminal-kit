@@ -1,0 +1,19 @@
+{
+  "name": "@agape/terminal",
+  "version": "0.0.1",
+  "description": "Await keypress from user, hide/move/query the input cursor, get terminal size",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaverikIO/project-zed"
+  },
+  "keywords": [
+    "terminal",
+    "keypress"
+  ],
+  "author": {
+    "name": "Maverik Minett"
+  }
+}

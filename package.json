@@ -1,0 +1,16 @@
+{
+  "name": "agape-terminal-kit",
+  "version": "0.0.1",
+  "description": "Toolkit for the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maverik Minett",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
